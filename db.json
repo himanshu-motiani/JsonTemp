@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "a@gmail.com",
+      "password": "himanshu"
+    },
+    {
+      "id": "2",
+      "username": "b@gmail.com",
+      "password": "himanshu"
+    },
+    {
+      "id": "3",
+      "username": "c@gmail.com",
+      "password": "himanshu"
+    },
+    {
+      "id": "4",
+      "username": "d@gmail.com",
+      "password": "himanshu"
+    },
+    {
+      "id": "5",
+      "username": "e@gmail.com",
+      "password": "himanshu"
+    }
+  ],
+  "visitors": [
+    {
+      "visitorname": "Surya",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Nikhil",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 1
+    },
+    {
+      "visitorname": "Nikhil",
+      "inTime": "1234-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Himanshu",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 2
+    },
+    {
+      "visitorname": "Kiran",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Rahul",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 3
+    },
+    {
+      "visitorname": "Patya",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Nikhil",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 4
+    },
+    {
+      "visitorname": "Himanshu",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Him",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 5
+    },
+    {
+      "visitorname": "Teja",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Nikhil",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 6
+    },
+    {
+      "visitorname": "Sonu",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Pinki",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 7
+    },
+    {
+      "visitorname": "rohit",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Pret",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 8
+    },
+    {
+      "visitorname": "jatin",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Kajs",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 9
+    },
+    {
+      "visitorname": "Surya",
+      "inTime": "2019-04-22T10:11:18.134Z",
+      "outTime": "2019-04-22T10:11:19.893Z",
+      "pov": "Meet",
+      "poc": "Nikhil",
+      "mobileNumber": 8800889988,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 10
+    },
+    {
+      "visitorname": "Priya",
+      "inTime": "2019-04-22T11:01:55.893Z",
+      "outTime": "2019-04-22T11:01:57.589Z",
+      "pov": "health",
+      "poc": "ankit",
+      "mobileNumber": 789456123,
+      "idProof": "C:\\fakepath\\char_counter.js",
+      "id": 11
+    },
+    {
+      "visitorname": "anand",
+      "inTime": "2019-04-22T11:03:38.204Z",
+      "outTime": "2019-04-22T11:03:40.300Z",
+      "pov": "Meet",
+      "poc": "qqq",
+      "mobileNumber": 789456,
+      "idProof": "C:\\fakepath\\code_beautifier.min.js",
+      "id": 12
+    },
+    {
+      "visitorname": "dass",
+      "inTime": "2019-04-22T11:05:54.997Z",
+      "outTime": "2019-04-22T11:05:56.957Z",
+      "pov": "asdasd",
+      "poc": "ss",
+      "mobileNumber": 32145697,
+      "idProof": "C:\\fakepath\\draggable.min.js",
+      "id": 13
+    },
+    {
+      "visitorname": "uuu",
+      "inTime": "2019-04-22T11:06:42.417Z",
+      "outTime": "2019-04-22T11:06:44.200Z",
+      "pov": "io;",
+      "poc": "oio;",
+      "mobileNumber": 4453,
+      "idProof": "C:\\fakepath\\draggable.min.js",
+      "id": 14
+    },
+    {
+      "visitorname": "Saurav",
+      "inTime": "2019-04-22T11:11:00.257Z",
+      "outTime": "2019-04-22T11:11:02.409Z",
+      "pov": "Medical",
+      "poc": "Preet",
+      "mobileNumber": 123456789,
+      "idProof": "C:\\fakepath\\code_beautifier.js",
+      "id": 15
+    },
+    {
+      "visitorname": "123",
+      "inTime": "2019-04-22T11:14:51.122Z",
+      "outTime": "2019-04-22T11:14:53.506Z",
+      "pov": "ss",
+      "poc": "..",
+      "mobileNumber": 31,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 16
+    },
+    {
+      "visitorname": "anikettt",
+      "inTime": "2019-04-24T06:57:12.711Z",
+      "outTime": "2019-04-25T06:57:13.000Z",
+      "pov": "ss",
+      "poc": "aaaaaaa",
+      "mobileNumber": 33,
+      "idProof": "C:\\fakepath\\code_view.js",
+      "id": 17
+    },
+    {
+      "visitorname": "anandaaa",
+      "inTime": "2019-04-24T06:58:18.342Z",
+      "outTime": "2019-04-24T06:58:20.582Z",
+      "pov": "aaaaaaaaa",
+      "poc": "aaaaaaa",
+      "mobileNumber": 333,
+      "idProof": "C:\\fakepath\\draggable.min.js",
+      "id": 18
+    },
+    {
+      "visitorname": "anand",
+      "inTime": "2019-04-24T06:59:24.031Z",
+      "outTime": "2019-04-24T06:59:26.110Z",
+      "pov": "hyjgj",
+      "poc": "77",
+      "mobileNumber": 78787,
+      "idProof": "C:\\fakepath\\code_view.js",
+      "id": 19
+    },
+    {
+      "visitorname": "anand",
+      "inTime": "2019-04-24T06:59:50.550Z",
+      "outTime": "2019-04-24T06:59:53.246Z",
+      "pov": "hgjgj",
+      "poc": "ghjghj",
+      "mobileNumber": 7878,
+      "idProof": "C:\\fakepath\\colors.min.js",
+      "id": 20
+    },
+    {
+      "visitorname": "rushi",
+      "inTime": "2019-04-24T09:28:41.396Z",
+      "outTime": "2019-04-24T09:28:43.644Z",
+      "pov": "kieie",
+      "poc": "aasdsad",
+      "mobileNumber": 5345345,
+      "idProof": "C:\\fakepath\\draggable.min.js",
+      "id": 21
+    },
+    {
+      "visitorname": "nihit",
+      "inTime": "2019-04-29T09:30:58.000Z",
+      "outTime": "2019-04-24T11:31:02.000Z",
+      "pov": "visit",
+      "poc": "meet",
+      "mobileNumber": 8888888888,
+      "idProof": "C:\\fakepath\\code_beautifier.js",
+      "id": 22
+    },
+    {
+      "visitorname": "hemant",
+      "inTime": "2019-04-24T09:32:20.689Z",
+      "outTime": "2019-04-24T09:32:22.930Z",
+      "pov": "asdas",
+      "poc": "uhjkhj",
+      "mobileNumber": 7897,
+      "idProof": "C:\\fakepath\\draggable.js",
+      "id": 23
+    },
+    {
+      "visitorname": "manan",
+      "inTime": "2019-04-25T06:04:45.354Z",
+      "outTime": "2019-04-25T06:04:47.290Z",
+      "pov": "gjghj",
+      "poc": "78678",
+      "mobileNumber": 7867867,
+      "idProof": "C:\\fakepath\\colors.js",
+      "id": 24
+    },
+    {
+      "visitorname": "pant",
+      "inTime": "2019-04-25T06:05:38.519Z",
+      "outTime": "2019-04-25T06:05:41.551Z",
+      "pov": "aaaaaaaaa",
+      "poc": "jhkhj",
+      "mobileNumber": 678678,
+      "idProof": "C:\\fakepath\\draggable.js",
+      "id": 25
+    }
+  ]
+}
